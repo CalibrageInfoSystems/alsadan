@@ -1,0 +1,11 @@
+{
+    "key_English" : "English",
+    "key_Hindi" : "Arabic",
+
+    "key_user_name": "اسم المستخدم",
+    "key_password": "كلمه السر",
+    "key_enter_username": "الرجاء إدخال اسم المستخدم",
+    "key_must_be_at_least_6_characters": "يرجى إدخال كلمة المرور",
+    "key_login": "تسجيل الدخول"
+
+}
